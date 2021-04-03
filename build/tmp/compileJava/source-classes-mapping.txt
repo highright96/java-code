@@ -1,0 +1,6 @@
+StaticFactoryMethod/Champion.java
+ StaticFactoryMethod.Champion
+StaticFactoryMethod/DrawingLots.java
+ StaticFactoryMethod.DrawingLots
+StaticFactoryMethod/Main.java
+ StaticFactoryMethod.Main
