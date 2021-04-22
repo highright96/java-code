@@ -1,4 +1,4 @@
-package njava.inheritance;
+package studyhalle.inheritance;
 
 public class Main {
     public static void main(String[] args) {
@@ -7,14 +7,5 @@ public class Main {
 
         System.out.println(ronaldo);
         System.out.println(messi);
-
-
-        List<Post> posts = Arrays.asList(new Text(), new Picture());
-        List<SNS> sns = Arrays.asList(new FaceBook(), new Twitter());
-
-        posts.forEach(p-> {
-            sns.forEach(s -> p.postOn(s));
-        });
-
     }
 }

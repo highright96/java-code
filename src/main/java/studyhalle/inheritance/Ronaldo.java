@@ -1,4 +1,4 @@
-package njava.inheritance;
+package studyhalle.inheritance;
 
 public class Ronaldo extends FootballPlayer{
 
